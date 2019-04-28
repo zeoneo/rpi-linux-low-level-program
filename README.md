@@ -1,5 +1,7 @@
-# Raspberry Pi UART Code
-Low level Programming on Raspberry Pi : UART
+# Low Level Coding in Raspberry Pi with Raspbian.
+
+This is not bare metal tutorial but I try to directly access physical memory using memory maps. It needs sudo permissions.
+I mostly use this code to debug problems in my raspberry pi bare metal programs.
 
 Here I have attached working code for serial communication usign rpi 3 uart.
 
